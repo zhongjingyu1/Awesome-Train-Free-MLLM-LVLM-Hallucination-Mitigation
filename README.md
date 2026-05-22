@@ -149,50 +149,7 @@ Legend used below:
 
 ---
 
-## Suggested Repository Structure
 
-```text
-awesome-train-free-mllm-hallucination/
-├── README.md
-├── assets/
-│   └── taxonomy.png
-├── papers/
-│   ├── 2023.md
-│   ├── 2024.md
-│   ├── 2025.md
-│   └── 2026.md
-├── benchmarks/
-│   ├── pope.md
-│   ├── chair.md
-│   ├── mme.md
-│   └── llava_bench.md
-├── models/
-│   ├── llava.md
-│   ├── instructblip.md
-│   ├── minigpt4.md
-│   └── qwen_vl.md
-└── scripts/
-    └── check_links.py
-```
-
----
-
-## Contribution Template
-
-```markdown
-### Paper Title
-
-- **Year**:
-- **Venue**:
-- **Task**: object hallucination / caption hallucination / VQA hallucination / open-ended generation
-- **Train-free type**: contrastive decoding / attention intervention / logit steering / post-hoc correction / retrieval-assisted
-- **Paper**:
-- **Project page**:
-- **Code**:
-- **Datasets**:
-- **Base models**:
-- **One-sentence summary**:
-```
 
 ---
 
