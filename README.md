@@ -80,7 +80,7 @@ Legend used below:
 | **[GEASS] GEASS: Training-Free Caption Steering with Gradient-guided Extrapolation and Adaptive Semantic Suppression** | arXiv 2026 | IT / caption steering | [Paper](https://arxiv.org/abs/2605.01733) | — |
 | **[CRoPS] CRoPS: CRoPS: A Training-Free Hallucination Mitigation Frame work for Vision-Language Models** | TMLR 2026 | IT / prompt steering | [Paper](https://arxiv.org/pdf/2601.00659) | [Code](https://github.com/ubamba98/CRoPS-A-Training-Free-Hallucination-Mitigation-Framework-for-Vision-Language-Models) |
 | **[ASCD] ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLMs** | AAAI 2026 | CD / attention steering | [Paper](https://arxiv.org/abs/2506.14766) | [Code](https://github.com/BroJunn/ASCD) |
-
+| **[CAST] CAST: Mitigating Object Hallucination in Large Vision-Language Models via Caption-Guided Visual Attention Steering** | arXiv 2026 | IT / visual attention steering | [Paper](https://arxiv.org/abs/2605.04641) | — |
 ---
 
 ## 2025
