@@ -77,7 +77,7 @@ Legend used below:
 
 ## 2026
 
-| Paper | Venue | Type | Paper / Homepage | Code |
+| Paper | Venue | Type | Paper | Code |
 | --- | --- | --- | --- | --- |
 | **GEASS: Training-Free Caption Steering with Gradient-guided Extrapolation and Adaptive Semantic Suppression** | arXiv 2026 | IT / caption steering | [Paper](https://arxiv.org/abs/2605.01733) | — |
 | **CRoPS: Correct and Robust Prompt Steering for Mitigating Hallucinations in MLLMs** | TMLR 2026 / to verify | IT / prompt steering | [Code/Homepage](https://github.com/ubamba98/CRoPS-Correct-and-Robust-Prompt-Steering-for-Mitigating-Hallucinations-in-MLLMs) | [Code](https://github.com/ubamba98/CRoPS-Correct-and-Robust-Prompt-Steering-for-Mitigating-Hallucinations-in-MLLMs) |
@@ -87,7 +87,7 @@ Legend used below:
 
 ## 2025
 
-| Paper | Venue | Type | Paper / Homepage | Code |
+| Paper | Venue | Type | Paper | Code |
 | --- | --- | --- | --- | --- |
 | **Nullu: Mitigating Object Hallucinations in LVLMs via HalluSpace Projection** | CVPR 2025 | IT / hidden-space projection | [Paper](https://arxiv.org/abs/2412.13817) | [Code](https://github.com/Ziwei-Zheng/Nullu) |
 | **VASparse: Towards Efficient Visual Hallucination Mitigation for LVLMs via Visual-Aware Sparsification** | CVPR 2025 | IT / token sparsification | [Paper](https://arxiv.org/abs/2501.06553) | [Code](https://github.com/mengchuang123/VASparse-github) |
@@ -110,7 +110,7 @@ Legend used below:
 
 ## 2024
 
-| Paper | Venue | Type | Paper / Homepage | Code |
+| Paper | Venue | Type | Paper | Code |
 | --- | --- | --- | --- | --- |
 | **LogicCheckGPT: Mitigating Multimodal Hallucination via Logical Closed Loop** | Findings of ACL 2024 | Post-hoc / self-checking | [Paper](https://aclanthology.org/2024.findings-acl.414/) | [Code](https://github.com/CRIPAC-DIG/LogicCheckGPT) |
 | **Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective** | ACL 2024 | Decoding / EOS decision | [Paper](https://aclanthology.org/2024.acl-long.633/) | [Code](https://github.com/yuezih/less-is-more) |
@@ -134,7 +134,7 @@ Legend used below:
 
 ## 2023
 
-| Paper | Venue | Type | Paper / Homepage | Code |
+| Paper | Venue | Type | Paper | Code |
 | --- | --- | --- | --- | --- |
 | **Woodpecker: Hallucination Correction for Multimodal Large Language Models** | SCIS 2024 | Post-hoc / visual expert correction | [Paper](https://arxiv.org/abs/2310.16045) | [Code](https://github.com/BradyFU/Woodpecker) |
 | **VCD: Mitigating Object Hallucinations in LVLMs through Visual Contrastive Decoding** | CVPR 2024 | CD / distorted visual input | [Paper](https://arxiv.org/abs/2311.16922) | [Code](https://github.com/DAMO-NLP-SG/VCD) |
