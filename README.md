@@ -87,23 +87,23 @@ Legend used below:
 
 | Paper | Venue | Type | Paper | Code |
 | --- | --- | --- | --- | --- |
-| **[Nullu] Nullu: Mitigating Object Hallucinations in LVLMs via HalluSpace Projection** | CVPR 2025 | IT / hidden-space projection | [Paper](https://arxiv.org/abs/2412.13817) | [Code](https://github.com/Ziwei-Zheng/Nullu) |
-| **[VASparse] VASparse: Towards Efficient Visual Hallucination Mitigation via Visual-Aware Token Sparsification** | CVPR 2025 | IT / token sparsification | [Paper](https://arxiv.org/abs/2501.06553) | [Code](https://github.com/mengchuang123/VASparse-github) |
 | **[IMCCD] Mitigating Hallucination for Large Vision Language Model by Inter-Modality Correlation Calibration Decoding** | arXiv 2025 | CD / modality calibration | [Paper](https://arxiv.org/abs/2501.01926) | [Code](https://github.com/lijm48/IMCCD) |
 | **[MINT] MINT: Mitigating Hallucinations in Large Vision-Language Models via Token Reduction** | arXiv 2025 | IT / token reduction | [Paper](https://arxiv.org/abs/2502.00717) | — |
 | **[IFCD] Mitigating Hallucinations in Large Vision-Language Models with Internal Fact-based Contrastive Decoding** | arXiv 2025 | CD / internal facts | [Paper](https://arxiv.org/abs/2502.01056) | — |
 | **[DAC] Mitigating Object Hallucinations in Large Vision-Language Models via Attention Calibration** | arXiv 2025 | IT / attention calibration | [Paper](https://arxiv.org/abs/2502.01969) | [Code](https://github.com/johnnyzyn/attention-calibration) |
-| **[VISTA] The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models via Visual Information Steering** | ICML 2025 | IT / logit steering | [Paper](https://openreview.net/forum?id=7BKcLeHQsm) | [Code](https://github.com/LzVv123456/VISTA) |
 | **[DeGF] Self-Correcting Decoding with Generative Feedback for Mitigating Hallucinations in Large Vision-Language Models** | ICLR 2025 | IT / generative feedback | [Homepage](https://zhangce01.github.io/DeGF/) | [Code](https://github.com/zhangce01/DeGF) |
+| **[VISTA] The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models via Visual Information Steering** | ICML 2025 | IT / logit steering | [Paper](https://openreview.net/forum?id=7BKcLeHQsm) | [Code](https://github.com/LzVv123456/VISTA) |
 | **[MARINE] Mitigating Object Hallucination in Large Vision-Language Models via Image-Grounded Guidance** | ICML 2025 | Aux / image-grounded guidance | [Paper](https://openreview.net/forum?id=w0xYx9CJhY) | [Code](https://github.com/Linxi-ZHAO/MARINE) |
-| **[ICT] ICT: Image-Object Cross-Level Trusted Intervention for Mitigating Object Hallucination in Large Vision-Language Models** | CVPR 2025 | IT / image-object intervention | [Homepage](https://chenjz24.github.io/ICT/) | [Code](https://github.com/THU-BPM/ICT) |
-| **[AGLA] Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention** | CVPR 2025 | IT / global-local attention | [Paper](https://arxiv.org/abs/2406.12718) | [Code](https://github.com/Lackel/AGLA) |
-| **[RVCD] Retrieval Visual Contrastive Decoding to Mitigate Object Hallucinations in Large Vision-Language Models** | Findings of ACL 2025 | CD | [Paper](https://aclanthology.org/2025.findings-acl.430/) | [Code](https://github.com/JiHoonLee9898/RVCD) |
-| **[INTER] INTER: Mitigating Hallucination in Large Vision-Language Models by Interaction Guidance Sampling** | ICCV 2025 | IT / interaction guidance | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Dong_INTER_Mitigating_Hallucination_in_Large_Vision-Language_Models_by_Interaction_Guidance_ICCV_2025_paper.html) | [Code](https://github.com/xxxxx313/INTER) |
 | **[MemVR] Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models** | ICML 2025 | IT / memory-space retracing | [Paper](https://proceedings.mlr.press/v267/zou25e.html) | [Code](https://github.com/1zhou-Wang/MemVR) |
+| **[ICT] ICT: Image-Object Cross-Level Trusted Intervention for Mitigating Object Hallucination in Large Vision-Language Models** | CVPR 2025 | IT / image-object intervention | [Homepage](https://chenjz24.github.io/ICT/) | [Code](https://github.com/THU-BPM/ICT) |
+| **[Nullu] Nullu: Mitigating Object Hallucinations in LVLMs via HalluSpace Projection** | CVPR 2025 | IT / hidden-space projection | [Paper](https://arxiv.org/abs/2412.13817) | [Code](https://github.com/Ziwei-Zheng/Nullu) |
+| **[VASparse] VASparse: Towards Efficient Visual Hallucination Mitigation via Visual-Aware Token Sparsification** | CVPR 2025 | IT / token sparsification | [Paper](https://arxiv.org/abs/2501.06553) | [Code](https://github.com/mengchuang123/VASparse-github) |
+| **[AGLA] Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention** | CVPR 2025 | IT / global-local attention | [Paper](https://arxiv.org/abs/2406.12718) | [Code](https://github.com/Lackel/AGLA) |
 | **[FarSight] Seeing Far and Clearly: Mitigating Hallucinations in MLLMs with Attention Causal Decoding** | CVPR 2025 | IT / attention causal mask | [Homepage](https://mllms-farsight.github.io/) | [Code](https://github.com/FeilongTangmonash/FarSight) |
+| **[INTER] INTER: Mitigating Hallucination in Large Vision-Language Models by Interaction Guidance Sampling** | ICCV 2025 | IT / interaction guidance | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Dong_INTER_Mitigating_Hallucination_in_Large_Vision-Language_Models_by_Interaction_Guidance_ICCV_2025_paper.html) | [Code](https://github.com/xxxxx313/INTER) |
 | **[MFCD] Alleviating Hallucinations for LVLMs through Model-Free Confidence Decoding** | EMNLP 2025 | CD / confidence decoding | [Paper](https://aclanthology.org/2025.emnlp-main.1452.pdf) | [Code](https://github.com/liubq-dev/mfcd) |
-
+| **[ASD] Activation Steering Decoding: Mitigating Hallucination in Large Vision-Language Models through Bidirectional Hidden State Intervention** | ACL 2025 | IT / activation steering decoding | [Paper](https://aclanthology.org/2025.acl-long.634/) | — |
+| **[RVCD] Retrieval Visual Contrastive Decoding to Mitigate Object Hallucinations in Large Vision-Language Models** | Findings of ACL 2025 | CD | [Paper](https://aclanthology.org/2025.findings-acl.430/) | [Code](https://github.com/JiHoonLee9898/RVCD) |
 ---
 
 ## 2024
