@@ -141,5 +141,4 @@ Legend used below:
 ## Notes
 
 - Some entries are **arXiv-first** papers later published at conferences. The table keeps the first public year while recording the later venue if available.
-- For entries marked **to verify**, please check the official project page or authors' repository before using the venue/code link in a public leaderboard.
 - This list is intended for GitHub curation rather than formal bibliographic completeness. Pull requests should include official paper links, official code links, and evaluation settings.
