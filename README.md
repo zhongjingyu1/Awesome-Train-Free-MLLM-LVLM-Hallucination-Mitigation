@@ -89,7 +89,7 @@ Legend used below:
 
 | Paper | Venue | Type | Paper | Code |
 | --- | --- | --- | --- | --- |
-| [**Nullu**]: **Mitigating Object Hallucinations in LVLMs via HalluSpace Projection** | CVPR 2025 | IT / hidden-space projection | [Paper](https://arxiv.org/abs/2412.13817) | [Code](https://github.com/Ziwei-Zheng/Nullu) |
+| **[Nullu] Nullu: Mitigating Object Hallucinations in LVLMs via HalluSpace Projection** | CVPR 2025 | IT / hidden-space projection | [Paper](https://arxiv.org/abs/2412.13817) | [Code](https://github.com/Ziwei-Zheng/Nullu) |
 | **VASparse: Towards Efficient Visual Hallucination Mitigation for LVLMs via Visual-Aware Sparsification** | CVPR 2025 | IT / token sparsification | [Paper](https://arxiv.org/abs/2501.06553) | [Code](https://github.com/mengchuang123/VASparse-github) |
 | **IMCCD: Boosting Multimodal LLMs with Inter-Modality Correlation Calibration Decoding** | arXiv 2025 | CD / modality calibration | [Paper](https://arxiv.org/abs/2501.01926) | — |
 | **MINT: Mitigating Hallucinations in LVLMs via Token Reduction** | arXiv 2025 | IT / token reduction | [Paper](https://arxiv.org/abs/2502.00717) | — |
