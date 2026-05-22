@@ -55,7 +55,6 @@ Legend used below:
 | **AMBER** | Hallucination and object-level evaluation | Covers discriminative and generative hallucination evaluation. | [Paper](https://arxiv.org/abs/2311.07397) |
 | **HallusionBench** | Visual illusion / reasoning hallucination | Tests language hallucination and visual illusion in multimodal reasoning. | [Paper](https://arxiv.org/abs/2310.14566) |
 | **GQA / VQAv2 / A-OKVQA / OK-VQA** | Visual question answering | Often used for general VQA performance and robustness checks. | [GQA](https://cs.stanford.edu/people/dorarad/gqa/) / [VQAv2](https://visualqa.org/) / [A-OKVQA](https://allenai.org/project/a-okvqa/home) |
-| **MSCOCO Caption** | Caption generation | Common for CHAIR and open-ended description evaluation. | [COCO Captions](https://cocodataset.org/#captions-2015) |
 
 ---
 
