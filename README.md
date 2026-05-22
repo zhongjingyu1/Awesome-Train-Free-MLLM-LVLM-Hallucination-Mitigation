@@ -133,7 +133,7 @@ Legend used below:
 | **ConVis: Contrastive Decoding with Hallucination Visualization** | AAAI 2025 / arXiv 2024 | CD / visualization-guided | [Paper](https://arxiv.org/abs/2408.13906) | [Code](https://github.com/yejipark-m/ConVis) | Five hallucination benchmarks | LLaVA-style MLLMs |
 | **GTHM: Game-theoretic Hallucination Mitigation** | EMNLP 2024 | Train-free decoding | [Paper](https://aclanthology.org/2024.emnlp-main.998/) | [Code](https://github.com/mengchuang123/GTHM) | Hallucination benchmarks | LVLMs |
 | **DeCo: Decoding by Contrasting Layers Improves Factuality in LVLMs** | ICLR 2025 / arXiv 2024 | CD / layer contrast | [Paper](https://openreview.net/forum?id=4z3IguA4Zg) | [Code](https://github.com/zjunlp/Deco) | POPE / CHAIR / MME-style benchmarks | LLaVA / InstructBLIP-style LVLMs |
-| **VaLiD: Mitigating Hallucinations in LVLMs through Visual Layer Fusion Contrastive Decoding** | arXiv 2024 | CD / visual-layer fusion | [Paper](https://arxiv.org/abs/2411.15839) | — | POPE / MME / CHAIR-style benchmarks | LVLMs |
+| **VaLiD: Mitigating Hallucinations in LVLMs through Visual Layer Fusion Contrastive Decoding** | arXiv 2024 | CD / visual-layer fusion | [Paper](https://arxiv.org/abs/2411.15839) | [Code](https://github.com/RicardoLuL/VaLiD_LVLMs_hallucinations) | POPE / MME / CHAIR-style benchmarks | LVLMs |
 
 ---
 
