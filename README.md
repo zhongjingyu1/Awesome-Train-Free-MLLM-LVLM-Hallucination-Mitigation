@@ -54,7 +54,6 @@ Legend used below:
 | **MMHal-Bench** | Hallucination benchmark | Used for answer-level hallucination evaluation and GPT-assisted scoring. | [Paper](https://arxiv.org/abs/2309.14525) |
 | **AMBER** | Hallucination and object-level evaluation | Covers discriminative and generative hallucination evaluation. | [Paper](https://arxiv.org/abs/2311.07397) |
 | **HallusionBench** | Visual illusion / reasoning hallucination | Tests language hallucination and visual illusion in multimodal reasoning. | [Paper](https://arxiv.org/abs/2310.14566) |
-| **GQA / VQAv2 / A-OKVQA / OK-VQA** | Visual question answering | Often used for general VQA performance and robustness checks. | [GQA](https://cs.stanford.edu/people/dorarad/gqa/) / [VQAv2](https://visualqa.org/) / [A-OKVQA](https://allenai.org/project/a-okvqa/home) |
 
 ---
 
