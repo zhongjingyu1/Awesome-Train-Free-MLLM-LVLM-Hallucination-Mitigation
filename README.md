@@ -79,9 +79,9 @@ Legend used below:
 
 | Paper | Venue | Type | Paper | Code |
 | --- | --- | --- | --- | --- |
-| **GEASS: Training-Free Caption Steering with Gradient-guided Extrapolation and Adaptive Semantic Suppression** | arXiv 2026 | IT / caption steering | [Paper](https://arxiv.org/abs/2605.01733) | — |
-| **CRoPS: Correct and Robust Prompt Steering for Mitigating Hallucinations in MLLMs** | TMLR 2026 / to verify | IT / prompt steering | [Code/Homepage](https://github.com/ubamba98/CRoPS-Correct-and-Robust-Prompt-Steering-for-Mitigating-Hallucinations-in-MLLMs) | [Code](https://github.com/ubamba98/CRoPS-Correct-and-Robust-Prompt-Steering-for-Mitigating-Hallucinations-in-MLLMs) |
-| **ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLMs** | AAAI 2026 / to verify | CD / attention steering | [Paper](https://arxiv.org/abs/2506.14766) | — |
+| **[GEASS] GEASS: Training-Free Caption Steering with Gradient-guided Extrapolation and Adaptive Semantic Suppression** | arXiv 2026 | IT / caption steering | [Paper](https://arxiv.org/abs/2605.01733) | — |
+| **[CRoPS] CRoPS: Correct and Robust Prompt Steering for Mitigating Hallucinations in MLLMs** | TMLR 2026 / to verify | IT / prompt steering | [Code/Homepage](https://github.com/ubamba98/CRoPS-Correct-and-Robust-Prompt-Steering-for-Mitigating-Hallucinations-in-MLLMs) | [Code](https://github.com/ubamba98/CRoPS-Correct-and-Robust-Prompt-Steering-for-Mitigating-Hallucinations-in-MLLMs) |
+| **[ASCD] Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLMs** | AAAI 2026 / to verify | CD / attention steering | [Paper](https://arxiv.org/abs/2506.14766) | — |
 
 ---
 
@@ -90,21 +90,21 @@ Legend used below:
 | Paper | Venue | Type | Paper | Code |
 | --- | --- | --- | --- | --- |
 | **[Nullu] Nullu: Mitigating Object Hallucinations in LVLMs via HalluSpace Projection** | CVPR 2025 | IT / hidden-space projection | [Paper](https://arxiv.org/abs/2412.13817) | [Code](https://github.com/Ziwei-Zheng/Nullu) |
-| **VASparse: Towards Efficient Visual Hallucination Mitigation for LVLMs via Visual-Aware Sparsification** | CVPR 2025 | IT / token sparsification | [Paper](https://arxiv.org/abs/2501.06553) | [Code](https://github.com/mengchuang123/VASparse-github) |
-| **IMCCD: Boosting Multimodal LLMs with Inter-Modality Correlation Calibration Decoding** | arXiv 2025 | CD / modality calibration | [Paper](https://arxiv.org/abs/2501.01926) | — |
-| **MINT: Mitigating Hallucinations in LVLMs via Token Reduction** | arXiv 2025 | IT / token reduction | [Paper](https://arxiv.org/abs/2502.00717) | — |
-| **IFCD: Internal Fact-based Contrastive Decoding for LVLMs** | arXiv 2025 | CD / internal facts | [Paper](https://arxiv.org/abs/2502.01056) | — |
-| **UAC / DAC: Universal and Differential Attention Calibration for LVLMs** | arXiv 2025 | IT / attention calibration | [Paper](https://arxiv.org/abs/2502.01969) | — |
-| **VISTA: Visual Information Steering with Token-logit Augmentation** | ICML 2025 | IT / logit steering | [Paper](https://openreview.net/forum?id=7BKcLeHQsm) | [Code](https://github.com/LzVv123456/VISTA) |
-| **DeGF: Debiasing Multimodal Large Language Models via Generative Feedback** | ICLR 2025 | IT / generative feedback | [Homepage](https://zhangce01.github.io/DeGF/) | [Code](https://github.com/zhangce01/DeGF) |
-| **MARINE: Mitigating Object Hallucination in LVLMs via Image-grounded Guidance** | ICML 2025 | Aux / image-grounded guidance | [Paper](https://openreview.net/forum?id=w0xYx9CJhY) | [Code](https://github.com/Linxi-ZHAO/MARINE) |
-| **ICT: Image-Object Cross-Level Trusted Intervention for Mitigating Object Hallucination in LVLMs** | CVPR 2025 | IT / image-object intervention | [Homepage](https://chenjz24.github.io/ICT/) | [Code](https://github.com/THU-BPM/ICT) |
-| **AGLA: Assembly of Global and Local Attention for LVLMs** | CVPR 2025 | IT / global-local attention | [Paper](https://arxiv.org/abs/2406.12718) | [Code](https://github.com/Lackel/AGLA) |
-| **RVCD: Alleviating Hallucinations in MLLMs via Robust Visual Contrastive Decoding** | Findings of ACL 2025 | CD | [Paper](https://aclanthology.org/2025.findings-acl.430/) | [Code](https://github.com/JiHoonLee9898/RVCD) |
-| **INTER: Mitigating Hallucination in LVLMs by Interaction Guidance** | ICCV 2025 | IT / interaction guidance | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Dong_INTER_Mitigating_Hallucination_in_Large_Vision-Language_Models_by_Interaction_Guidance_ICCV_2025_paper.html) | [Code](https://github.com/xxxxx313/INTER) |
-| **MemVR: Look Twice Before You Answer: Memory-Space Visual Retracing** | ICML 2025 | IT / memory-space retracing | [Paper](https://proceedings.mlr.press/v267/zou25e.html) | [Code](https://github.com/1zhou-Wang/MemVR) |
-| **FarSight: Mitigating Hallucination in LVLMs via Attention Causal Mask** | CVPR 2025 | IT / attention causal mask | [Homepage](https://mllms-farsight.github.io/) | — |
-| **MFCD: Alleviating Hallucinations for LVLMs through Model-Free Confidence Decoding** | EMNLP 2025 | CD / confidence decoding | [Paper](https://aclanthology.org/2025.emnlp-main.1452.pdf) | [Code](https://github.com/liubq-dev/mfcd) |
+| **[VASparse] VASparse: Towards Efficient Visual Hallucination Mitigation via Visual-Aware Token Sparsification** | CVPR 2025 | IT / token sparsification | [Paper](https://arxiv.org/abs/2501.06553) | [Code](https://github.com/mengchuang123/VASparse-github) |
+| **[IMCCD] Boosting Multimodal LLMs with Inter-Modality Correlation Calibration Decoding** | arXiv 2025 | CD / modality calibration | [Paper](https://arxiv.org/abs/2501.01926) | — |
+| **[MINT] Mitigating Hallucinations in LVLMs via Token Reduction** | arXiv 2025 | IT / token reduction | [Paper](https://arxiv.org/abs/2502.00717) | — |
+| **[IFCD] Mitigating Hallucinations in Large Vision-Language Models with Internal Fact-based Contrastive Decoding** | arXiv 2025 | CD / internal facts | [Paper](https://arxiv.org/abs/2502.01056) | — |
+| **[UAC / DAC] Mitigating Object Hallucinations in Large Vision-Language Models via Attention Calibration** | arXiv 2025 | IT / attention calibration | [Paper](https://arxiv.org/abs/2502.01969) | — |
+| **[VISTA] The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models via Visual Information Steering** | ICML 2025 | IT / logit steering | [Paper](https://openreview.net/forum?id=7BKcLeHQsm) | [Code](https://github.com/LzVv123456/VISTA) |
+| **[DeGF] Debiasing Multimodal Large Language Models via Generative Feedback** | ICLR 2025 | IT / generative feedback | [Homepage](https://zhangce01.github.io/DeGF/) | [Code](https://github.com/zhangce01/DeGF) |
+| **[MARINE] Mitigating Object Hallucination in LVLMs via Image-grounded Guidance** | ICML 2025 | Aux / image-grounded guidance | [Paper](https://openreview.net/forum?id=w0xYx9CJhY) | [Code](https://github.com/Linxi-ZHAO/MARINE) |
+| **[ICT] Image-Object Cross-Level Trusted Intervention for Mitigating Object Hallucination in LVLMs** | CVPR 2025 | IT / image-object intervention | [Homepage](https://chenjz24.github.io/ICT/) | [Code](https://github.com/THU-BPM/ICT) |
+| **[AGLA] Assembly of Global and Local Attention for LVLMs** | CVPR 2025 | IT / global-local attention | [Paper](https://arxiv.org/abs/2406.12718) | [Code](https://github.com/Lackel/AGLA) |
+| **[RVCD] Retrieval Visual Contrastive Decoding to Mitigate Object Hallucinations in Large Vision-Language Models** | Findings of ACL 2025 | CD | [Paper](https://aclanthology.org/2025.findings-acl.430/) | [Code](https://github.com/JiHoonLee9898/RVCD) |
+| **[INTER] Mitigating Hallucination in LVLMs by Interaction Guidance** | ICCV 2025 | IT / interaction guidance | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Dong_INTER_Mitigating_Hallucination_in_Large_Vision-Language_Models_by_Interaction_Guidance_ICCV_2025_paper.html) | [Code](https://github.com/xxxxx313/INTER) |
+| **[MemVR] Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models** | ICML 2025 | IT / memory-space retracing | [Paper](https://proceedings.mlr.press/v267/zou25e.html) | [Code](https://github.com/1zhou-Wang/MemVR) |
+| **[FarSight] Mitigating Hallucination in LVLMs via Attention Causal Mask** | CVPR 2025 | IT / attention causal mask | [Homepage](https://mllms-farsight.github.io/) | — |
+| **[MFCD] Alleviating Hallucinations for LVLMs through Model-Free Confidence Decoding** | EMNLP 2025 | CD / confidence decoding | [Paper](https://aclanthology.org/2025.emnlp-main.1452.pdf) | [Code](https://github.com/liubq-dev/mfcd) |
 
 ---
 
@@ -112,26 +112,27 @@ Legend used below:
 
 | Paper | Venue | Type | Paper | Code |
 | --- | --- | --- | --- | --- |
-| **SID: Self-Introspective Decoding for Hallucination Mitigation** | ICLR 2025 / arXiv 2024 | CD / self-introspective decoding | [Paper](https://arxiv.org/pdf/2408.02032) | [Code](https://github.com/huofushuo/SID) |
-| **LogicCheckGPT: Mitigating Multimodal Hallucination via Logical Closed Loop** | Findings of ACL 2024 | Post-hoc / self-checking | [Paper](https://aclanthology.org/2024.findings-acl.414/) | [Code](https://github.com/CRIPAC-DIG/LogicCheckGPT) |
-| **Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective** | ACL 2024 | Decoding / EOS decision | [Paper](https://aclanthology.org/2024.acl-long.633/) | [Code](https://github.com/yuezih/less-is-more) |
-| **CGD: Seeing is Believing: Mitigating Hallucination in LVLMs via CLIP-Guided Decoding** | ICLR 2024 Workshop / arXiv | CD / CLIP-guided | [Paper](https://arxiv.org/abs/2402.15300) | [Code](https://github.com/d-ailin/CLIP-Guided-Decoding) |
-| **IBD: Alleviating Hallucinations in LVLMs via Image-Biased Decoding** | CVPRW 2025 / arXiv 2024 | CD / image-biased decoding | [Paper](https://arxiv.org/abs/2402.18476) | — |
-| **HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding** | ICML 2024 | CD / adaptive focal contrast | [Homepage](https://billchan226.github.io/HALC.html) | [Code](https://github.com/BillChan226/HALC) |
-| **M3ID: Mitigating LVLM Hallucination with Mitigated Mutual-Information Decoding** | CVPR 2024 | CD / mutual information | [Paper](https://arxiv.org/abs/2403.14003) | — |
-| **Pensieve: Retrospect-then-Compare Mitigating Visual Hallucination** | arXiv 2024 | IT / retrieval-compare | [Paper](https://arxiv.org/abs/2403.14401) | [Code](https://github.com/DingchenYang99/Pensieve) |
-| **ESREAL: Mitigating Hallucinations in LVLMs through Enhanced Semantic Reliability** | ECCV 2024 | IT / semantic reliability | [Paper](https://arxiv.org/abs/2403.16167) | [Code](https://github.com/kmy17518/ESREAL) |
-| **ICD: Mitigating Object Hallucinations via Image-aware Contrastive Decoding** | Findings of ACL 2024 | CD / image-aware instruction contrast | [Paper](https://aclanthology.org/2024.findings-acl.937/) | [Code](https://github.com/p1k0pan/ICD) |
-| **CODE: Contrasting Self-generated Description to Combat Hallucination** | NeurIPS 2024 | CD / self-generated description | [Homepage](https://ivy-lvlm.github.io/CODE/) | [Code](https://github.com/IVY-LVLM/CODE) |
-| **PAI: Mitigating Hallucination in LVLMs via Attention Intervention** | ECCV 2024 | IT / attention intervention | [Homepage](https://lalbj.github.io/projects/PAI/) | [Code](https://github.com/LALBJ/PAI) |
-| **LCD: Mitigating Object Hallucinations in LVLMs through Language Contrastive Decoding** | Findings of ACL 2024 | CD / language contrast | [Paper](https://aclanthology.org/2024.findings-acl.359/) | [Code](https://github.com/avshalomman/lcd) |
-| **ConVis: Contrastive Decoding with Hallucination Visualization** | AAAI 2025 / arXiv 2024 | CD / visualization-guided | [Paper](https://arxiv.org/abs/2408.13906) | [Code](https://github.com/yejipark-m/ConVis) |
-| **GTHM: Game-theoretic Hallucination Mitigation** | EMNLP 2024 | Train-free decoding | [Paper](https://aclanthology.org/2024.emnlp-main.998/) | [Code](https://github.com/mengchuang123/GTHM) |
-| **DeCo: Decoding by Contrasting Layers Improves Factuality in LVLMs** | ICLR 2025 / arXiv 2024 | CD / layer contrast | [Paper](https://openreview.net/forum?id=4z3IguA4Zg) | [Code](https://github.com/zjunlp/Deco) |
-| **VaLiD: Mitigating Hallucinations in LVLMs through Visual Layer Fusion Contrastive Decoding** | arXiv 2024 | CD / visual-layer fusion | [Paper](https://arxiv.org/abs/2411.15839) | [Code](https://github.com/RicardoLuL/VaLiD_LVLMs_hallucinations) |
-| **Woodpecker: Hallucination Correction for Multimodal Large Language Models** | SCIS 2024 | Post-hoc / visual expert correction | [Paper](https://arxiv.org/abs/2310.16045) | [Code](https://github.com/BradyFU/Woodpecker) |
-| **VCD: Mitigating Object Hallucinations in LVLMs through Visual Contrastive Decoding** | CVPR 2024 | CD / distorted visual input | [Paper](https://arxiv.org/abs/2311.16922) | [Code](https://github.com/DAMO-NLP-SG/VCD) |
-| **OPERA: Alleviating Hallucination in MLLMs via Over-Trust Penalty and Retrospection-Allocation** | CVPR 2024 | Decoding / attention penalty / rollback | [Paper](https://arxiv.org/abs/2311.17911) | [Code](https://github.com/shikiw/OPERA) |
+| **[LogicCheckGPT] Mitigating Multimodal Hallucination via Logical Closed Loop** | Findings of ACL 2024 | Post-hoc / self-checking | [Paper](https://aclanthology.org/2024.findings-acl.414/) | [Code](https://github.com/CRIPAC-DIG/LogicCheckGPT) |
+| **[Less is More] Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective** | ACL 2024 | Decoding / EOS decision | [Paper](https://aclanthology.org/2024.acl-long.633/) | [Code](https://github.com/yuezih/less-is-more) |
+| **[CGD] Seeing is Believing: Mitigating Hallucination in LVLMs via CLIP-Guided Decoding** | ICLR 2024 Workshop / arXiv | CD / CLIP-guided | [Paper](https://arxiv.org/abs/2402.15300) | [Code](https://github.com/d-ailin/CLIP-Guided-Decoding) |
+| **[IBD] Alleviating Hallucinations in LVLMs via Image-Biased Decoding** | CVPRW 2025 / arXiv 2024 | CD / image-biased decoding | [Paper](https://arxiv.org/abs/2402.18476) | — |
+| **[HALC] Object Hallucination Reduction via Adaptive Focal-Contrast Decoding** | ICML 2024 | CD / adaptive focal contrast | [Homepage](https://billchan226.github.io/HALC.html) | [Code](https://github.com/BillChan226/HALC) |
+| **[M3ID] Mitigating LVLM Hallucination with Mitigated Mutual-Information Decoding** | CVPR 2024 | CD / mutual information | [Paper](https://arxiv.org/abs/2403.14003) | — |
+| **[Pensieve] Pensieve: Retrospect-then-Compare Mitigating Visual Hallucination** | arXiv 2024 | IT / retrieval-compare | [Paper](https://arxiv.org/abs/2403.14401) | [Code](https://github.com/DingchenYang99/Pensieve) |
+| **[ESREAL] Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models** | ECCV 2024 | IT / semantic reliability | [Paper](https://arxiv.org/abs/2403.16167) | [Code](https://github.com/kmy17518/ESREAL) |
+| **[ICD] Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding** | Findings of ACL 2024 | CD / instruction contrast | [Paper](https://aclanthology.org/2024.findings-acl.937/) | [Code](https://github.com/p1k0pan/ICD) |
+| **[CODE] Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models** | NeurIPS 2024 | CD / self-generated description | [Homepage](https://ivy-lvlm.github.io/CODE/) | [Code](https://github.com/IVY-LVLM/CODE) |
+| **[PAI] Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs** | ECCV 2024 | IT / attention intervention | [Homepage](https://lalbj.github.io/projects/PAI/) | [Code](https://github.com/LALBJ/PAI) |
+| **[LCD] Mitigating Hallucinations in Large Vision-Language Models via Language-Contrastive Decoding** | Findings of ACL 2024 | CD / language contrast | [Paper](https://aclanthology.org/2024.findings-acl.359/) | [Code](https://github.com/avshalomman/lcd) |
+| **[SID] Self-Introspective Decoding for Hallucination Mitigation** | OpenReview / to verify | CD / self-introspective decoding | [Paper](https://openreview.net/forum?id=rsZwwjYHuD) | [Code](https://github.com/huofushuo/SID) |
+| **[ConVis] Contrastive Decoding with Hallucination Visualization** | AAAI 2025 / arXiv 2024 | CD / visualization-guided | [Paper](https://arxiv.org/abs/2408.13906) | [Code](https://github.com/yejipark-m/ConVis) |
+| **[GTHM] Game-theoretic Hallucination Mitigation** | EMNLP 2024 | Train-free decoding | [Paper](https://aclanthology.org/2024.emnlp-main.998/) | [Code](https://github.com/mengchuang123/GTHM) |
+| **[DeCo] Decoding by Contrasting Layers Improves Factuality in LVLMs** | ICLR 2025 / arXiv 2024 | CD / layer contrast | [Paper](https://openreview.net/forum?id=4z3IguA4Zg) | [Code](https://github.com/zjunlp/Deco) |
+| **[VaLiD] VaLiD: Mitigating Hallucinations in LVLMs through Visual Layer Fusion Contrastive Decoding** | arXiv 2024 | CD / visual-layer fusion | [Paper](https://arxiv.org/abs/2411.15839) | [Code](https://github.com/RicardoLuL/VaLiD_LVLMs_hallucinations) |
+| **[Woodpecker] Woodpecker: Hallucination Correction for Multimodal Large Language Models** | SCIS 2024 | Post-hoc / visual expert correction | [Paper](https://arxiv.org/abs/2310.16045) | [Code](https://github.com/BradyFU/Woodpecker) |
+| **[VCD] Mitigating Object Hallucinations in LVLMs through Visual Contrastive Decoding** | CVPR 2024 | CD / distorted visual input | [Paper](https://arxiv.org/abs/2311.16922) | [Code](https://github.com/DAMO-NLP-SG/VCD) |
+| **[OPERA] OPERA: Alleviating Hallucination in MLLMs via Over-Trust Penalty and Retrospection-Allocation** | CVPR 2024 | Decoding / attention penalty / rollback | [Paper](https://arxiv.org/abs/2311.17911) | [Code](https://github.com/shikiw/OPERA) |
+
 ---
 
 
