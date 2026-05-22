@@ -47,6 +47,7 @@ Legend used below:
 | **MME** | Comprehensive MLLM evaluation | Measures both perception and cognition abilities across multiple subtasks. | [Paper](https://arxiv.org/abs/2306.13394) |
 | **LLaVA-Bench** | Open-ended instruction-following and hallucination-related evaluation | Frequently used with GPT-4/GPT-4V/LLM-assisted judging. | [Dataset](https://huggingface.co/datasets/liuhaotian/LLaVA-Bench-in-the-Wild) |
 | **MMHal-Bench** | Hallucination benchmark | Used for answer-level hallucination evaluation and GPT-assisted scoring. | [Paper](https://arxiv.org/abs/2309.14525) |
+| **MME** | Multimodal evaluation benchmark | A comprehensive benchmark for evaluating MLLMs on perception and cognition tasks, commonly used in hallucination mitigation papers. | [Paper](https://arxiv.org/abs/2306.13394) / [Benchmark](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) |
 | **AMBER** | Hallucination and object-level evaluation | Covers discriminative and generative hallucination evaluation. | [Paper](https://arxiv.org/abs/2311.07397) |
 | **GPT-4V Assisted Evaluation** | Open-ended multimodal answer evaluation | Uses GPT-4V or GPT-4V-style multimodal judging for open-ended generation, image-grounded answers, and hallucination-related scoring. | [OpenAI](https://openai.com/) |
 | **GPT-4 Assisted Evaluation** | LLM-assisted text evaluation | Uses GPT-4 as a text-based evaluator, often with questions, references, object lists, captions, or model responses as input for hallucination scoring. | [OpenAI](https://openai.com/) |
