@@ -14,9 +14,6 @@
   - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
-- [Suggested Repository Structure](#suggested-repository-structure)
-- [Contribution Template](#contribution-template)
-
 ---
 
 ## Scope and Inclusion Criteria
