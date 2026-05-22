@@ -66,8 +66,6 @@ Legend used below:
 | **InternVL / InternVL2** | Strong recent LVLM family; useful for modern benchmark extensions. | [InternVL](https://github.com/OpenGVLab/InternVL) |
 | **BLIP-2** | Backbone or auxiliary model in several early LVLM settings. | [BLIP-2](https://github.com/salesforce/LAVIS) |
 | **GPT-4V / GPT-4o / GPT-4.1 style judges** | Used as evaluator or reference model in open-ended answer scoring. | [OpenAI](https://openai.com/) |
-| **CLIP / SAM / GroundingDINO / Detectors** | Auxiliary visual grounding, filtering, segmentation, or feedback modules in some train-free or post-hoc methods. | [CLIP](https://github.com/openai/CLIP) / [SAM](https://github.com/facebookresearch/segment-anything) / [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) |
-
 ---
 
 ## Papers by Year
