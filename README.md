@@ -41,7 +41,7 @@ Legend used below:
 
 ## Common Benchmarks and Datasets
 
-| Benchmark / Dataset | Main Usage | Notes | Link |
+| Benchmark | Main Usage | Notes | Link |
 |---|---|---|---|
 | **POPE** | Object hallucination evaluation | Polling-based object probing; widely used with LLaVA, InstructBLIP, MiniGPT-4, Shikra, Qwen-VL, etc. | [Paper](https://arxiv.org/abs/2305.10355) / [Code](https://github.com/RUCAIBox/POPE) |
 | **CHAIR** | Caption hallucination evaluation | CHAIR measures object hallucination using MSCOCO object annotations and captions. | [Paper](https://aclanthology.org/D18-1437/) / [COCO](https://cocodataset.org/) |
