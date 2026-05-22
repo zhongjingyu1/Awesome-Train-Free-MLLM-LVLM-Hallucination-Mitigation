@@ -89,6 +89,7 @@ Legend used below:
 
 | Paper | Venue | Type | Paper | Code |
 | --- | --- | --- | --- | --- |
+| **SID: Self-Introspective Decoding for Hallucination Mitigation** | ICLR 2025 | CD / self-introspective decoding | [Paper](https://arxiv.org/pdf/2408.02032) | [Code](https://github.com/huofushuo/SID) |
 | **Nullu: Mitigating Object Hallucinations in LVLMs via HalluSpace Projection** | CVPR 2025 | IT / hidden-space projection | [Paper](https://arxiv.org/abs/2412.13817) | [Code](https://github.com/Ziwei-Zheng/Nullu) |
 | **VASparse: Towards Efficient Visual Hallucination Mitigation for LVLMs via Visual-Aware Sparsification** | CVPR 2025 | IT / token sparsification | [Paper](https://arxiv.org/abs/2501.06553) | [Code](https://github.com/mengchuang123/VASparse-github) |
 | **IMCCD: Boosting Multimodal LLMs with Inter-Modality Correlation Calibration Decoding** | arXiv 2025 | CD / modality calibration | [Paper](https://arxiv.org/abs/2501.01926) | — |
@@ -124,7 +125,6 @@ Legend used below:
 | **CODE: Contrasting Self-generated Description to Combat Hallucination** | NeurIPS 2024 | CD / self-generated description | [Homepage](https://ivy-lvlm.github.io/CODE/) | [Code](https://github.com/IVY-LVLM/CODE) |
 | **PAI: Mitigating Hallucination in LVLMs via Attention Intervention** | ECCV 2024 | IT / attention intervention | [Homepage](https://lalbj.github.io/projects/PAI/) | [Code](https://github.com/LALBJ/PAI) |
 | **LCD: Mitigating Object Hallucinations in LVLMs through Language Contrastive Decoding** | Findings of ACL 2024 | CD / language contrast | [Paper](https://aclanthology.org/2024.findings-acl.359/) | [Code](https://github.com/avshalomman/lcd) |
-| **SID: Self-Introspective Decoding for Hallucination Mitigation** | OpenReview / to verify | CD / self-introspective decoding | [Paper](https://openreview.net/forum?id=rsZwwjYHuD) | [Code](https://github.com/huofushuo/SID) |
 | **ConVis: Contrastive Decoding with Hallucination Visualization** | AAAI 2025 / arXiv 2024 | CD / visualization-guided | [Paper](https://arxiv.org/abs/2408.13906) | [Code](https://github.com/yejipark-m/ConVis) |
 | **GTHM: Game-theoretic Hallucination Mitigation** | EMNLP 2024 | Train-free decoding | [Paper](https://aclanthology.org/2024.emnlp-main.998/) | [Code](https://github.com/mengchuang123/GTHM) |
 | **DeCo: Decoding by Contrasting Layers Improves Factuality in LVLMs** | ICLR 2025 / arXiv 2024 | CD / layer contrast | [Paper](https://openreview.net/forum?id=4z3IguA4Zg) | [Code](https://github.com/zjunlp/Deco) |
