@@ -105,7 +105,6 @@ Legend used below:
 | **MemVR: Look Twice Before You Answer: Memory-Space Visual Retracing** | ICML 2025 | IT / memory-space retracing | [Paper](https://proceedings.mlr.press/v267/zou25e.html) | [Code](https://github.com/1zhou-Wang/MemVR) | POPE / MME / CHAIR-style benchmarks | LLaVA / Qwen-VL / MiniGPT-4-style LVLMs |
 | **FarSight: Mitigating Hallucination in LVLMs via Attention Causal Mask** | CVPR 2025 | IT / attention causal mask | [Homepage](https://mllms-farsight.github.io/) | — | POPE / CHAIR / MME-style benchmarks | LLaVA-style LVLMs |
 | **MFCD: Alleviating Hallucinations for LVLMs through Model-Free Confidence Decoding** | EMNLP 2025 | CD / confidence decoding | [Paper](https://aclanthology.org/2025.emnlp-main.1452.pdf) | [Code](https://github.com/liubq-dev/mfcd) | POPE / MME / hallucination benchmarks | LLaVA-style LVLMs |
-| **MCA-LLaVA: Multi-Level Cross-Modal Alignment for LVLMs** | arXiv 2025 / to verify | IT / cross-modal alignment | [Paper](https://arxiv.org/abs/2507.20829) | [Code](https://github.com/ErikZ719/MCA-LLaVA) | POPE / MME / CHAIR-style benchmarks | LLaVA-style LVLMs |
 
 ---
 
