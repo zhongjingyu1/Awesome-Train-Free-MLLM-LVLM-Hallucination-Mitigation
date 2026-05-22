@@ -141,7 +141,7 @@ Legend used below:
 
 | Paper | Venue | Type | Paper / Homepage | Code | Common Datasets | Common Models |
 |---|---|---|---|---|---|---|
-| **Woodpecker: Hallucination Correction for Multimodal Large Language Models** | arXiv 2023 / published version to verify | Post-hoc / visual expert correction | [Paper](https://arxiv.org/abs/2310.16045) | [Code](https://github.com/BradyFU/Woodpecker) | POPE / open-ended correction cases | MiniGPT-4 / mPLUG-Owl-style MLLMs |
+| **Woodpecker: Hallucination Correction for Multimodal Large Language Models** | SCIS 2024 | Post-hoc / visual expert correction | [Paper](https://arxiv.org/abs/2310.16045) | [Code](https://github.com/BradyFU/Woodpecker) | POPE / MME / LLaVA-QA90 | LLaVA / MiniGPT-4 / mPLUG-Owl |
 | **VCD: Mitigating Object Hallucinations in LVLMs through Visual Contrastive Decoding** | CVPR 2024 | CD / distorted visual input | [Paper](https://arxiv.org/abs/2311.16922) | [Code](https://github.com/DAMO-NLP-SG/VCD) | POPE / MME / LLaVA-Bench / GPT-4V eval | LLaVA-1.5 / InstructBLIP / Qwen-VL |
 | **OPERA: Alleviating Hallucination in MLLMs via Over-Trust Penalty and Retrospection-Allocation** | CVPR 2024 | Decoding / attention penalty / rollback | [Paper](https://arxiv.org/abs/2311.17911) | [Code](https://github.com/shikiw/OPERA) | MSCOCO / POPE / CHAIR / GPT-4V eval | InstructBLIP / MiniGPT-4 / LLaVA-1.5 / Shikra |
 
