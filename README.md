@@ -36,7 +36,6 @@ Legend used below:
 - **IT**: Inference-Time intervention.
 - **Post-hoc**: generates first, then verifies/corrects.
 - **Aux**: uses auxiliary models/tools/retrieval but does not train the target LVLM.
-- **Code TBA / —**: official code was not found or not verified when this README was drafted.
 
 ---
 
