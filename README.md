@@ -78,7 +78,7 @@ Legend used below:
 | Paper | Venue | Type | Paper | Code |
 | --- | --- | --- | --- | --- |
 | **[GEASS] GEASS: Training-Free Caption Steering with Gradient-guided Extrapolation and Adaptive Semantic Suppression** | arXiv 2026 | IT / caption steering | [Paper](https://arxiv.org/abs/2605.01733) | — |
-| **[CRoPS] CRoPS: Correct and Robust Prompt Steering for Mitigating Hallucinations in MLLMs** | TMLR 2026 | IT / prompt steering | [Code](https://arxiv.org/pdf/2601.00659) | [Code](https://github.com/ubamba98/CRoPS-A-Training-Free-Hallucination-Mitigation-Framework-for-Vision-Language-Models) |
+| **[CRoPS] CRoPS: CRoPS: A Training-Free Hallucination Mitigation Frame work for Vision-Language Models** | TMLR 2026 | IT / prompt steering | [Paper](https://arxiv.org/pdf/2601.00659) | [Code](https://github.com/ubamba98/CRoPS-A-Training-Free-Hallucination-Mitigation-Framework-for-Vision-Language-Models) |
 | **[ASCD] ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLMs** | AAAI 2026 | CD / attention steering | [Paper](https://arxiv.org/abs/2506.14766) | [Code](https://github.com/BroJunn/ASCD) |
 
 ---
