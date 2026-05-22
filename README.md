@@ -50,10 +50,9 @@ Legend used below:
 | **POPE** | Object hallucination evaluation | Polling-based object probing; widely used with LLaVA, InstructBLIP, MiniGPT-4, Shikra, Qwen-VL, etc. | [Paper](https://arxiv.org/abs/2305.10355) / [Code](https://github.com/RUCAIBox/POPE) |
 | **CHAIR / MSCOCO** | Caption hallucination evaluation | CHAIR measures object hallucination using MSCOCO object annotations and captions. | [Paper](https://aclanthology.org/D18-1437/) / [COCO](https://cocodataset.org/) |
 | **MME** | Comprehensive MLLM evaluation | Measures both perception and cognition abilities across multiple subtasks. | [Paper](https://arxiv.org/abs/2306.13394) |
-| **LLaVA-Bench in-the-Wild** | Open-ended instruction-following and hallucination-related evaluation | Frequently used with GPT-4/GPT-4V/LLM-assisted judging. | [Dataset](https://huggingface.co/datasets/liuhaotian/LLaVA-Bench-in-the-Wild) |
+| **LLaVA-Bench** | Open-ended instruction-following and hallucination-related evaluation | Frequently used with GPT-4/GPT-4V/LLM-assisted judging. | [Dataset](https://huggingface.co/datasets/liuhaotian/LLaVA-Bench-in-the-Wild) |
 | **MMHal-Bench** | Hallucination benchmark | Used for answer-level hallucination evaluation and GPT-assisted scoring. | [Paper](https://arxiv.org/abs/2309.14525) |
 | **AMBER** | Hallucination and object-level evaluation | Covers discriminative and generative hallucination evaluation. | [Paper](https://arxiv.org/abs/2311.07397) |
-| **HallusionBench** | Visual illusion / reasoning hallucination | Tests language hallucination and visual illusion in multimodal reasoning. | [Paper](https://arxiv.org/abs/2310.14566) |
 
 ---
 
