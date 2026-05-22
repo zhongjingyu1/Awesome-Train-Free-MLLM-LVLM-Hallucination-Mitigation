@@ -89,7 +89,6 @@ Legend used below:
 
 | Paper | Venue | Type | Paper | Code |
 | --- | --- | --- | --- | --- |
-| **SID: Self-Introspective Decoding for Hallucination Mitigation** | ICLR 2025 | CD / self-introspective decoding | [Paper](https://arxiv.org/pdf/2408.02032) | [Code](https://github.com/huofushuo/SID) |
 | **Nullu: Mitigating Object Hallucinations in LVLMs via HalluSpace Projection** | CVPR 2025 | IT / hidden-space projection | [Paper](https://arxiv.org/abs/2412.13817) | [Code](https://github.com/Ziwei-Zheng/Nullu) |
 | **VASparse: Towards Efficient Visual Hallucination Mitigation for LVLMs via Visual-Aware Sparsification** | CVPR 2025 | IT / token sparsification | [Paper](https://arxiv.org/abs/2501.06553) | [Code](https://github.com/mengchuang123/VASparse-github) |
 | **IMCCD: Boosting Multimodal LLMs with Inter-Modality Correlation Calibration Decoding** | arXiv 2025 | CD / modality calibration | [Paper](https://arxiv.org/abs/2501.01926) | — |
@@ -113,6 +112,7 @@ Legend used below:
 
 | Paper | Venue | Type | Paper | Code |
 | --- | --- | --- | --- | --- |
+| **SID: Self-Introspective Decoding for Hallucination Mitigation** | ICLR 2025 / arXiv 2024 | CD / self-introspective decoding | [Paper](https://arxiv.org/pdf/2408.02032) | [Code](https://github.com/huofushuo/SID) |
 | **LogicCheckGPT: Mitigating Multimodal Hallucination via Logical Closed Loop** | Findings of ACL 2024 | Post-hoc / self-checking | [Paper](https://aclanthology.org/2024.findings-acl.414/) | [Code](https://github.com/CRIPAC-DIG/LogicCheckGPT) |
 | **Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective** | ACL 2024 | Decoding / EOS decision | [Paper](https://aclanthology.org/2024.acl-long.633/) | [Code](https://github.com/yuezih/less-is-more) |
 | **CGD: Seeing is Believing: Mitigating Hallucination in LVLMs via CLIP-Guided Decoding** | ICLR 2024 Workshop / arXiv | CD / CLIP-guided | [Paper](https://arxiv.org/abs/2402.15300) | [Code](https://github.com/d-ailin/CLIP-Guided-Decoding) |
