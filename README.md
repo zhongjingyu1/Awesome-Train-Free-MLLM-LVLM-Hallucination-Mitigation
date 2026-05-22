@@ -129,13 +129,6 @@ Legend used below:
 | **GTHM: Game-theoretic Hallucination Mitigation** | EMNLP 2024 | Train-free decoding | [Paper](https://aclanthology.org/2024.emnlp-main.998/) | [Code](https://github.com/mengchuang123/GTHM) |
 | **DeCo: Decoding by Contrasting Layers Improves Factuality in LVLMs** | ICLR 2025 / arXiv 2024 | CD / layer contrast | [Paper](https://openreview.net/forum?id=4z3IguA4Zg) | [Code](https://github.com/zjunlp/Deco) |
 | **VaLiD: Mitigating Hallucinations in LVLMs through Visual Layer Fusion Contrastive Decoding** | arXiv 2024 | CD / visual-layer fusion | [Paper](https://arxiv.org/abs/2411.15839) | [Code](https://github.com/RicardoLuL/VaLiD_LVLMs_hallucinations) |
-
----
-
-## 2023
-
-| Paper | Venue | Type | Paper | Code |
-| --- | --- | --- | --- | --- |
 | **Woodpecker: Hallucination Correction for Multimodal Large Language Models** | SCIS 2024 | Post-hoc / visual expert correction | [Paper](https://arxiv.org/abs/2310.16045) | [Code](https://github.com/BradyFU/Woodpecker) |
 | **VCD: Mitigating Object Hallucinations in LVLMs through Visual Contrastive Decoding** | CVPR 2024 | CD / distorted visual input | [Paper](https://arxiv.org/abs/2311.16922) | [Code](https://github.com/DAMO-NLP-SG/VCD) |
 | **OPERA: Alleviating Hallucination in MLLMs via Over-Trust Penalty and Retrospection-Allocation** | CVPR 2024 | Decoding / attention penalty / rollback | [Paper](https://arxiv.org/abs/2311.17911) | [Code](https://github.com/shikiw/OPERA) |
