@@ -93,6 +93,7 @@ Legend used below:
 
 | Paper | Venue | Type | Paper | Code |
 | --- | --- | --- | --- | --- |
+| **[RUR] Mitigating Hallucinations in Large Vision-Language Models via Reasoning Uncertainty-Guided Refinement** | IEEE TMM 2025 | Post-hoc / reasoning uncertainty-guided refinement | [Paper](https://doi.org/10.1109/TMM.2025.3599076) | [Code](https://github.com/Mrshenshen/RUR) |
 | **[IMCCD] Mitigating Hallucination for Large Vision Language Model by Inter-Modality Correlation Calibration Decoding** | arXiv 2025 | CD / modality calibration | [Paper](https://arxiv.org/abs/2501.01926) | [Code](https://github.com/lijm48/IMCCD) |
 | **[MINT] MINT: Mitigating Hallucinations in Large Vision-Language Models via Token Reduction** | arXiv 2025 | IT / token reduction | [Paper](https://arxiv.org/abs/2502.00717) | — |
 | **[IFCD] Mitigating Hallucinations in Large Vision-Language Models with Internal Fact-based Contrastive Decoding** | arXiv 2025 | CD / internal facts | [Paper](https://arxiv.org/abs/2502.01056) | — |
