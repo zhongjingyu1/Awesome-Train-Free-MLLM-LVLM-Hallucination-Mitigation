@@ -122,6 +122,7 @@ Legend used below:
 | --- | --- | --- | --- | --- |
 | **[CGD] Seeing is Believing: Mitigating Hallucination in LVLMs via CLIP-Guided Decoding** | ICLR 2024 Workshop | CD / CLIP-guided | [Paper](https://arxiv.org/abs/2402.15300) | [Code](https://github.com/d-ailin/CLIP-Guided-Decoding) |
 | **[SID] Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models** | ICLR 2025 / arXiv 2024 | CD / self-introspective decoding | [Paper](https://arxiv.org/abs/2408.02032) | [Code](https://github.com/huofushuo/SID) |
+| **[CausalMM] Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality** | ICLR 2025 / arXiv 2024 | IT / causal attention intervention | [Paper](https://arxiv.org/abs/2410.04780) | [Code](https://github.com/The-Martyr/CausalMM) |
 | **[IBD] IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding** | CVPR 2025 / arXiv 2024 | CD / image-biased decoding | [Paper](https://arxiv.org/abs/2402.18476) | — |
 | **[HALC] HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding** | ICML 2024 | CD / adaptive focal contrast | [Homepage](https://billchan226.github.io/HALC.html) | [Code](https://github.com/BillChan226/HALC) |
 | **[Pensieve] Pensieve: Retrospect-then-Compare Mitigating Visual Hallucination** | arXiv 2024 | IT / retrieval-compare | [Paper](https://arxiv.org/abs/2403.14401) | [Code](https://github.com/DingchenYang99/Pensieve) |
