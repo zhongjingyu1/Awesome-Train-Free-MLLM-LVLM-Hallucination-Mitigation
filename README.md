@@ -87,6 +87,7 @@ Legend used below:
 | **[AQAH] Asking Questions to Alleviate Object Hallucination in Large Vision-Language Models** | IEEE TCSVT 2026 | Aux / active questioning and answer verification | [Paper](https://doi.org/10.1109/TCSVT.2025.3618949) | [Code](https://github.com/bcxbg/AQAH) |
 | **[FLB] First Logit Boosting: Visual Grounding Method to Mitigate Object Hallucination in Large Vision-Language Models** | CVPR 2026 | Decoding / logit boosting | [Paper](https://arxiv.org/abs/2604.00455) | [Code](https://github.com/jiwooha20/FLB) |
 | **[MAD] MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models** | CVPR 2026 | CD / modality-adaptive decoding | [Paper](https://arxiv.org/abs/2601.21181) | [Code](https://github.com/top-yun/MAD) |
+| **[VECD] Mitigating Hallucinations in Large Vision-Language Models via Visual-Enhanced Contrastive Decoding** | IEEE TMM 2026 | CD / visual-enhanced contrastive decoding | [Paper](https://doi.org/10.1109/TMM.2026.3651099) | — |
 ---
 
 ## 2025
