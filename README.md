@@ -82,6 +82,7 @@ Legend used below:
 | **[ASCD] ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLMs** | AAAI 2026 | CD / attention steering | [Paper](https://arxiv.org/abs/2506.14766) | [Code](https://github.com/BroJunn/ASCD) |
 | **[IRI] Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation** | AAAI 2026 | IT / intermediate representation injection | [Paper](https://arxiv.org/abs/2511.05923) | — |
 | **[CAST] CAST: Mitigating Object Hallucination in Large Vision-Language Models via Caption-Guided Visual Attention Steering** | arXiv 2026 | IT / visual attention steering | [Paper](https://arxiv.org/abs/2605.04641) | — |
+| **[SelfVal] Countering the Over-Reliance Trap: Mitigating Object Hallucination for LVLMs via a Self-Validation Framework** | arXiv 2026 | Post-hoc / self-validation framework | [Paper](https://arxiv.org/abs/2601.22451) | [Code](https://github.com/Liushiyu-0709/SelfVal) |
 | **[AttnReal] Attention Reallocation: Towards Zero-cost and Controllable Hallucination Mitigation of MLLMs** | IJCV 2026 | IT / attention reallocation | [Paper](https://arxiv.org/abs/2503.08342) | — |
 | **[AQAH] Asking Questions to Alleviate Object Hallucination in Large Vision-Language Models** | IEEE TCSVT 2026 | Aux / active questioning and answer verification | [Paper](https://doi.org/10.1109/TCSVT.2025.3618949) | [Code](https://github.com/bcxbg/AQAH) |
 ---
