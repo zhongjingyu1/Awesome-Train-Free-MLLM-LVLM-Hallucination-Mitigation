@@ -44,7 +44,6 @@ Legend used below:
 |---|---|---|---|
 | **POPE** | Object hallucination evaluation | Polling-based object probing; widely used with LLaVA, InstructBLIP, MiniGPT-4, Shikra, Qwen-VL, etc. | [Paper](https://arxiv.org/abs/2305.10355) / [Code](https://github.com/RUCAIBox/POPE) |
 | **CHAIR** | Caption hallucination evaluation | CHAIR measures object hallucination using MSCOCO object annotations and captions. | [Paper](https://aclanthology.org/D18-1437/) 
-| **MME** | Comprehensive MLLM evaluation | Measures both perception and cognition abilities across multiple subtasks. | [Paper](https://arxiv.org/abs/2306.13394) |
 | **LLaVA-Bench** | Open-ended instruction-following and hallucination-related evaluation | Frequently used with GPT-4/GPT-4V/LLM-assisted judging. | [Dataset](https://huggingface.co/datasets/liuhaotian/LLaVA-Bench-in-the-Wild) |
 | **MMHal-Bench** | Hallucination benchmark | Used for answer-level hallucination evaluation and GPT-assisted scoring. | [Paper](https://arxiv.org/abs/2309.14525) |
 | **MME** | Multimodal evaluation benchmark | A comprehensive benchmark for evaluating MLLMs on perception and cognition tasks, commonly used in hallucination mitigation papers. | [Paper](https://arxiv.org/abs/2306.13394) / [Benchmark](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation) |
