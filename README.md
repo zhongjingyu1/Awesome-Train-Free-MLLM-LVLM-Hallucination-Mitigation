@@ -79,7 +79,7 @@ Legend used below:
 | Paper | Venue | Type | Paper | Code |
 | --- | --- | --- | --- | --- |
 | **[GEASS] GEASS: Training-Free Caption Steering with Gradient-guided Extrapolation and Adaptive Semantic Suppression** | arXiv 2026 | IT / caption steering | [Paper](https://arxiv.org/abs/2605.01733) | — |
-| **[CRoPS] CRoPS: CRoPS: A Training-Free Hallucination Mitigation Frame work for Vision-Language Models** | TMLR 2026 | IT / prompt steering | [Paper](https://arxiv.org/pdf/2601.00659) | [Code](https://github.com/ubamba98/CRoPS-A-Training-Free-Hallucination-Mitigation-Framework-for-Vision-Language-Models) |
+| **[CRoPS] CRoPS: A Training-Free Hallucination Mitigation Frame work for Vision-Language Models** | TMLR 2026 | IT / prompt steering | [Paper](https://arxiv.org/pdf/2601.00659) | [Code](https://github.com/ubamba98/CRoPS-A-Training-Free-Hallucination-Mitigation-Framework-for-Vision-Language-Models) |
 | **[ASCD] ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLMs** | AAAI 2026 | CD / attention steering | [Paper](https://arxiv.org/abs/2506.14766) | [Code](https://github.com/BroJunn/ASCD) |
 | **[IRI] Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation** | AAAI 2026 | IT / intermediate representation injection | [Paper](https://arxiv.org/abs/2511.05923) | — |
 | **[SAVER] SAVER: Mitigating Hallucinations in Large Vision-Language Models via Style-Aware Visual Early Revision** | AAAI 2026 | IT / style-aware visual early revision | [Paper](https://arxiv.org/abs/2508.03177) | — |
@@ -88,6 +88,7 @@ Legend used below:
 | **[SelfVal] Countering the Over-Reliance Trap: Mitigating Object Hallucination for LVLMs via a Self-Validation Framework** | arXiv 2026 | Post-hoc / self-validation framework | [Paper](https://arxiv.org/abs/2601.22451) | [Code](https://github.com/Liushiyu-0709/SelfVal) |
 | **[AttnReal] Attention Reallocation: Towards Zero-cost and Controllable Hallucination Mitigation of MLLMs** | IJCV 2026 | IT / attention reallocation | [Paper](https://arxiv.org/abs/2503.08342) | — |
 | **[AQAH] Asking Questions to Alleviate Object Hallucination in Large Vision-Language Models** | IEEE TCSVT 2026 | Aux / active questioning and answer verification | [Paper](https://doi.org/10.1109/TCSVT.2025.3618949) | [Code](https://github.com/bcxbg/AQAH) |
+| **[KVSmooth] KVSmooth: Mitigating Hallucination in Multi-modal Large Language Models through Key-Value Smoothing** | CVPR 2026 | - | [Paper](https://arxiv.org/abs/2602.04268) | - |
 | **[FLB] First Logit Boosting: Visual Grounding Method to Mitigate Object Hallucination in Large Vision-Language Models** | CVPR 2026 | Decoding / logit boosting | [Paper](https://arxiv.org/abs/2604.00455) | [Code](https://github.com/jiwooha20/FLB) |
 | **[MAD] MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models** | CVPR 2026 | CD / modality-adaptive decoding | [Paper](https://arxiv.org/abs/2601.21181) | [Code](https://github.com/top-yun/MAD) |
 | **[VECD] Mitigating Hallucinations in Large Vision-Language Models via Visual-Enhanced Contrastive Decoding** | IEEE TMM 2026 | CD / visual-enhanced contrastive decoding | [Paper](https://doi.org/10.1109/TMM.2026.3651099) | — |
